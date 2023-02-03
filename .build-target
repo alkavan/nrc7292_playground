@@ -1,0 +1,3 @@
+MAKEFILE = nrc7292.sdk.release
+
+PARAM := -- APP_NAME=hello_world
